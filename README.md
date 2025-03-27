@@ -72,5 +72,29 @@ User -> CLI Interface -> IPC Monitoring (Processes, Queue) -> Data Visualization
 Installation & Usage
 
 1. Clone the Repository
-git clone [Insert Repository Link]
-cd ipc-debugger
+git clone (https://github.com/Giri0204/ipc_debugger.git)
+cd ipc_debugger
+2. Run the IPC Debugger
+python main.py
+
+
+Conclusion and Future Scope
+
+Conclusion:
+
+The IPC Debugger provides a structured approach to debugging inter-process communication by enabling monitoring, control, and visualization of message exchanges between processes.
+
+Future Scope:
+
+Enhance visualization using Matplotlib or Plotly.
+
+Implement real-time graphical dashboards.
+
+Expand debugging functionalities with logging and error handling.
+
+References
+
+Python Official Documentation
+
+Multiprocessing Library Reference
+
